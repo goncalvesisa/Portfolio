@@ -1,0 +1,14 @@
+C:\Users\429299624\Documents\senai 3.12\bin\Debug\net8.0\senai 3.12.exe
+C:\Users\429299624\Documents\senai 3.12\bin\Debug\net8.0\senai 3.12.deps.json
+C:\Users\429299624\Documents\senai 3.12\bin\Debug\net8.0\senai 3.12.runtimeconfig.json
+C:\Users\429299624\Documents\senai 3.12\bin\Debug\net8.0\senai 3.12.dll
+C:\Users\429299624\Documents\senai 3.12\bin\Debug\net8.0\senai 3.12.pdb
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\senai 3.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\senai 3.12.AssemblyInfoInputs.cache
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\senai 3.12.AssemblyInfo.cs
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\senai 3.12.csproj.CoreCompileInputs.cache
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\senai 3.12.dll
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\refint\senai 3.12.dll
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\senai 3.12.pdb
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\senai 3.12.genruntimeconfig.cache
+C:\Users\429299624\Documents\senai 3.12\obj\Debug\net8.0\ref\senai 3.12.dll

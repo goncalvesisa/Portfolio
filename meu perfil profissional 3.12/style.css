@@ -1,0 +1,168 @@
+*{background-color: rgb(185, 148, 220);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+
+.img_escrita{
+    width: 120px;
+}
+h1{
+    font-size: 20px;
+}
+
+div{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+   
+}
+.div2{
+    display: flex;
+    border: 1px solid rgb(142, 17, 173);
+    justify-content: space-between;
+    
+}
+.imagem {
+    width: 200px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap:15px;
+
+}
+li{
+    margin-left:10px;
+}
+p{
+font-size: 20px;
+}
+/* Estilo para a imagem */
+.container-imagem {
+    display: flex;
+    justify-content: center;  /* Centraliza horizontalmente */
+    align-items: center;      /* Centraliza verticalmente */
+    height: 40vh;            /* Faz o container ocupar a altura total da tela */
+}
+
+.foto {
+    width: 350px;             /* Ajuste o tamanho da imagem conforme necessário */
+    border-radius: 50%;       /* Torna a imagem circular */
+    object-fit: cover;        /* Garante que a imagem se ajuste bem no círculo */
+}
+
+
+#foto{
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+/* Reset de estilos padrões */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    
+        font-family: Arial, sans-serif;
+        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Froxo&psig=AOvVaw1LHt5CFtEliwbl1G1QPpUH&ust=1741972017281000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiFltPFh4wDFQAAAAAdAAAAABAE'); /* Substitua pela URL da sua imagem */
+        background-size: cover; /* Garante que a imagem cubra todo o fundo */
+        background-position: center center; /* Centraliza a imagem */
+        color: #333;
+        line-height: 1.6;
+        background-attachment: fixed;} /*
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+header .container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.principal{
+    display: flex;
+}
+.section {
+    padding: 40px 0;
+}
+
+.section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+form input, form textarea, form button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #555;
+}
+
+/* Rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer p {
+    font-size: 1rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
